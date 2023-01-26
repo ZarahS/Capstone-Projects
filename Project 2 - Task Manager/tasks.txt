@@ -1,0 +1,5 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 13 Jan 2023, no
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2023, yes
+zarah, Complete task, Use pdf to complete all parts of task, 15 Dec 2022, 25 Dec 2022, no
+joe, Finish work, Finish assigned piece of work before deadline, 19 Dec 2022, 25 Dec 2023, yes
+milo, Clean room, Deep clean room, 29 Dec 2022, 27 Dec 2022, no
