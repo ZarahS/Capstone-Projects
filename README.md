@@ -4,7 +4,7 @@ This folder consists of a range of projects completed as part of the HyperionDev
 
 
 
-## Project 1 - Variable and Control Structures
+## Project 1 - Financial Calculator
 
 A simple financial calculator that allows the user to calculate their interest on an investment or calcualate the amount that should be repaid on a home loan each month. 
 
