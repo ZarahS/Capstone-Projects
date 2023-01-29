@@ -6,7 +6,7 @@
  2. [Login](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#2-login)
  3. [Usage](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#3-usage)
     - [Core Functions](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#core-functions)
-    - [Admin Functions]https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#admin-functions)
+    - [Admin Functions](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#admin-functions)
  
 
 ## 1. Program Features
