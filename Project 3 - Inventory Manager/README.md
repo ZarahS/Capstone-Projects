@@ -11,7 +11,7 @@
    - [4 - Search Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#4---search-shoes)
    - [5 - View Shoe Values](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#5---view-shoe-values)
    - [6 - View Shoe Sale](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#6---view-shoe-sale)
-   - [Exit points](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#exit-points)
+   - [7 - Exit points](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#exit-points)
 
 ## 1. Program Features
 
@@ -143,7 +143,7 @@ Old Price: £100
 Sale Price: £75
 ----------------------------------
 ```
-### Exit Points
+### 7 - Exit Points
 
 There are 2 exit points within this program, the first is found in the main menu and the second is found at the end of completing options 1-6:
 
