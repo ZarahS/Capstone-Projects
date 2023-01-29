@@ -2,9 +2,9 @@
 > A simple financial calculator that allows the user to calculate their interest on an investment or calculate their monthly repayment amount on a home loan.
 
 ## Contents
- 1. [Types of Interest](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%201%20-%20Financial%20Calculator/README.md#1-types-of-interest)
- 2. [Equations](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%201%20-%20Financial%20Calculator/README.md#2-equations)
- 3. [Usage](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%201%20-%20Financial%20Calculator/README.md#3-usage)
+ 1. [Types of Interest](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%201%20-%20Financial%20Calculator#1-types-of-interest)
+ 2. [Equations](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%201%20-%20Financial%20Calculator#2-equations)
+ 3. [Usage](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%201%20-%20Financial%20Calculator#3-usage)
 
 ## 1. Types of Interest
 
