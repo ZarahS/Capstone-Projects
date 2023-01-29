@@ -5,12 +5,12 @@
 1. [Program Features](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#1-program-features)
 2. [Usage](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#2-usage)
    - [Inventory Menu](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#inventory-menu)
-   - [Record Shoe](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#record-shoe)
-   - [View Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#view-shoes)
-   - [Restock Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#restock-shoes)
-   - [Search Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#search-shoes)
-   - [View Shoe Values](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#view-shoe-values)
-   - [View Shoe Sale](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#view-shoe-sale)
+   - [Record Shoe](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#1---record-shoe)
+   - [View Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#2---view-shoes)
+   - [Restock Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#3---restock-shoes)
+   - [Search Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#4---search-shoes)
+   - [View Shoe Values](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#5---view-shoe-values)
+   - [View Shoe Sale](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#6---view-shoe-sale)
    - [Exit points](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#exit-points)
 
 ## 1. Program Features
@@ -128,7 +128,7 @@ This option generates a table with two columns, one is for the product and one i
 |       Air Max       | 300000 | 
 +---------------------+--------+
 ```
-### 6 - View shoe Sale
+### 6 - View Shoe Sale
 
 When the user makes this selection the shoe with the highest quantity is printed to the terminal as for sale:
 
@@ -143,7 +143,7 @@ Old Price: £100
 Sale Price: £75
 ----------------------------------
 ```
-### Exit points
+### Exit Points
 
 There are 2 exit points within this program, the first is found in the main menu and the second is found at the end of completing options 1-6:
 
