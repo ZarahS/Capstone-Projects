@@ -4,14 +4,14 @@
 ## Contents 
 1. [Program Features](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#1-program-features)
 2. [Usage](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#2-usage)
-   - Inventory Menu
-   - Record Shoe
-   - View Shoes
-   - Restock Shoes
-   - Search Shoes
-   - View Shoe Values
-   - View Shoe Sale
-   - Exit points
+   - [Inventory Menu](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#inventory-menu)
+   - [Record Shoe](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#record-shoe)
+   - [View Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#view-shoes)
+   - [Restock Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#restock-shoes)
+   - [Search Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#search-shoes)
+   - [View Shoe Values](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#view-shoe-values)
+   - [View Shoe Sale](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#view-shoe-sale)
+   - [Exit points](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#exit-points)
 
 ## 1. Program Features
 
@@ -19,12 +19,12 @@ This program is made up of 6 key functions that a user can perform:
 
 | Function  |Description|
 |:---:|---|
-|Record a shoe| Allows user to enter a new shoe into the inventory |
-|View shoes| Allows user to view all shoes in inventory|
-|Restock shoes|Allows user to view shoes with least stock and choose which shoe they would like to restock|
-|Search shoes|Allows a user to obtain shoe information via shoe code|
-|View shoe values|Allows user to view value of each shoe product in the inventory
-|View shoe sale|Allows user to view the sale price for the product with the highest quantity|
+|Record Shoe| Allows user to enter a new shoe into the inventory |
+|View Shoes| Allows user to view all shoes in inventory|
+|Restock Shoes|Allows user to view shoes with least stock and choose which shoe they would like to restock|
+|Search Shoes|Allows a user to obtain shoe information via shoe code|
+|View Shoe Values|Allows user to view value of each shoe product in the inventory
+|View Shoe Sale|Allows user to view the sale price for the product with the highest quantity|
 
 Shoe products are stored in the inventory.txt file with the following information:
 - Country
@@ -116,7 +116,7 @@ Code: SKU12345
 Cost: 100
 Quantity: 3000
 ```
-### 5 - View shoe values
+### 5 - View Shoe Values
 
 This option generates a table with two columns, one is for the product and one is for values, the values are obtained by muliplying the cost by quantity.
 
@@ -128,7 +128,7 @@ This option generates a table with two columns, one is for the product and one i
 |       Air Max       | 300000 | 
 +---------------------+--------+
 ```
-### 6 - View shoe sale
+### 6 - View shoe Sale
 
 When the user makes this selection the shoe with the highest quantity is printed to the terminal as for sale:
 
