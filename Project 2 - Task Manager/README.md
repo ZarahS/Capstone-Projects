@@ -2,11 +2,11 @@
 > A task manager program that allows a small business to manage tasks assigned to team members. Users have the ability to create, edit and view tasks. The admin user is able to do all these functions as well as retrieve tasks statistics and generate reports.
 
 ## Contents
- 1. [Program Features](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%202%20-%20Task%20Manager/README.md#program-1-features)
- 2. [Login](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%202%20-%20Task%20Manager/README.md#2-login)
- 3. [Usage](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%202%20-%20Task%20Manager/README.md#2-usage) 
-    - [Core Functions](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%202%20-%20Task%20Manager/README.md#core-functions)
-    - [Admin Functions](https://github.com/ZarahS/Capstone-Projects/edit/main/Project%202%20-%20Task%20Manager/README.md#admin-functions)
+ 1. [Program Features](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#1-program-features)
+ 2. [Login](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#2-login)
+ 3. [Usage](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#3-usage)
+    - [Core Functions](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#core-functions)
+    - [Admin Functions]https://github.com/ZarahS/Capstone-Projects/tree/main/Project%202%20-%20Task%20Manager#admin-functions)
  
 
 ## 1. Program Features
