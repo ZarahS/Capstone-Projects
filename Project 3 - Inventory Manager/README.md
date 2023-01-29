@@ -11,7 +11,7 @@
    - [4 - Search Shoes](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#4---search-shoes)
    - [5 - View Shoe Values](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#5---view-shoe-values)
    - [6 - View Shoe Sale](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#6---view-shoe-sale)
-   - [7 - Exit points](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#exit-points)
+   - [7 - Exit points](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#77---exit-points)
 
 ## 1. Program Features
 
