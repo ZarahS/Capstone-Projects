@@ -1,6 +1,6 @@
 # Capstone Projects 
 
-> This folder consists of a range of projects completed as part of the HyperionDev Software Engineering Bootcamp from December 2022 - January 2023. These projects incorporate learning from a wider range of topics such as variables, control structures, functions, string handling and object oriented programming. Please see below for a summary of each project.
+> This folder consists of a range of projects completed as part of the HyperionDev Software Engineering Bootcamp from December 2022 - January 2023. These projects incorporate learning from a wide range of topics such as variables, control structures, functions, string handling and object oriented programming. Please see below for a summary of each project.
 
 ## Contents Table
 
