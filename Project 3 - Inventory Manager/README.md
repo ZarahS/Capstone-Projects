@@ -1,5 +1,5 @@
 # Project 3 - Inventory Manager
->A shoe inventory management program built to optimise delivery time and improve stock organisation. THis program utilises object-oriented programming (OOP) to allows users to search products by code, log a new product, determine the product with the lowest quantity and restock it, determine the product with highest quantity and calculate the total value of each stock item. 
+>A shoe inventory management program built to optimise delivery time and improve stock organisation. This program utilises object-oriented programming (OOP) to allows users to search products by code, log a new product, determine the product with the lowest quantity and restock it, determine the product with highest quantity and calculate the total value of each stock item. 
 
 ## Contents 
 1. [Program Features](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%203%20-%20Inventory%20Manager#1-program-features)
