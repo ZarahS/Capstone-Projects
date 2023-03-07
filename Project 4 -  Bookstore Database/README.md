@@ -4,6 +4,11 @@
 ## Contents 
 1. [Program Features](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#1-program-features)
 2. [Usage](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#2-usage)
+    - [Main Menu](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#main-menu)
+    - [Add Book](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#add-book)
+    - [Update Book](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#update-book)
+    - [Delete Book](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#delete-book)
+    - [Search Book](https://github.com/ZarahS/Capstone-Projects/tree/main/Project%204%20-%20%20Bookstore%20Database#search-book)
 
 ## 1. Program Features
 
@@ -93,7 +98,7 @@ Enter the number of the field you want to update:
 2. Author
 3. Quantity
 ```
-Once the user has chosen a field to update, the database is also updated and the new record is printed:
+Once the user has chosen a field to update, the database is updated and the new record is printed:
 ```
 Enter new quantity: 40
 
@@ -106,4 +111,49 @@ Quantity: 40
 
 ### Delete Book
 
+If the user selects option 3, a table depicting all the existing records in the database is printed and the user is requested to enter the ID of the book they would like to delete from the system:
+
+```
++------+------------------------------------------+-----------------+-------+
+|   ID | Title                                    | Author          |   Qty |
++======+==========================================+=================+=======+
+| 3001 | A Tale of Two Cities                     | Charles Dickens |    30 |
++------+------------------------------------------+-----------------+-------+
+| 3002 | Harry Potter and the Philosopher's Stone | J.K. Rowling    |    50 |
++------+------------------------------------------+-----------------+-------+
+| 3003 | The Lion, the Witch and the Wardrobe     | C. S. Lewis     |    25 |
++------+------------------------------------------+-----------------+-------+
+| 3004 | The Lord of the Rings                    | J.R.R Tolkien   |    37 |
++------+------------------------------------------+-----------------+-------+
+| 3005 | Alice in Wonderland                      | Lewis Carroll   |    12 |
++------+------------------------------------------+-----------------+-------+
+Enter the ID of the book to delete:
+
+```
+When an ID has been entered, the program checks to make sure that the user would like to delete this book:
+``` 
+Are you sure you want to delete 'The Lion, the Witch and the Wardrobe' by C. S. Lewis? (Y/N): 
+```
+When the user enters 'Y', the book is deleted from the database:
+```
+Book with ID 3003 has been deleted.
+```
+
 ### Search Book
+
+If the user selects option 4, they are requested to enter either the ID, title or author of the book they would like to find:
+
+```
+Enter the book ID, title or author to search: 
+```
+If a match is found, the user is presented the information:
+```
+The following books matched your search:
+
+ID: 3005
+Title: Alice in Wonderland
+Author: Lewis Carroll
+Qty: 12
+```
+
+
