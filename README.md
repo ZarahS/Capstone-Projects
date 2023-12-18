@@ -19,6 +19,3 @@ This repository can be cloned into a local directory by copying and pasting the 
 
 When the repository has been cloned, you can navigate into any project folder.
 
-
-## Contribution
-Thank you to [HyperionDev](https://www.hyperiondev.com/) for providing me with the resources to complete these projects.
